@@ -42,6 +42,9 @@
                         <p class="font-italic mb-0">Web Developer</p>
                         <p class="font-italic mb-0">Lives in DaNang City, VietNam</p>
                         <p class="font-italic mb-0">Single</p>
+                        <p class="font-italic mb-0">Email: nguyenvo@gmail.com</p>
+                        <p class="font-italic mb-0">Phone number: 0123456789</p>
+                        <p class="font-italic mb-0">Address: 658 Ngo Quyen, Son Tra, Da Nang</p>
                     </div>
                 </div>
                 <div class="py-4 px-4">
