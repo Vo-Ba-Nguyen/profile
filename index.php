@@ -16,7 +16,7 @@
             <div class="bg-white shadow rounded overflow-hidden">
                 <div class="px-4 pt-0 pb-4 cover">
                     <div class="media align-items-end profile-head">
-                     <a href="/Profile/image/70358564_706012969914300_3151589165775192064_n.jpg">  <div class="profile mr-3"><img src="/Profile/image/70358564_706012969914300_3151589165775192064_n.jpg" alt="..." width="130" class="rounded mb-2 img-thumbnail"></a> <a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
+                     <a href="70358564_706012969914300_3151589165775192064_n.jpg">  <div class="profile mr-3"><img src="70358564_706012969914300_3151589165775192064_n.jpg" alt="..." width="130" class="rounded mb-2 img-thumbnail"></a> <a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
                         <div class="media-body mb-5 text-white">
                             <h4 class="mt-0 mb-0">Vo Ba Nguyen</h4>
                             <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>New York</p>
@@ -49,10 +49,10 @@
                         <h5 class="mb-0">Recent photos</h5><a href="#" class="btn btn-link text-muted">Show all</a>
                     </div>
                     <div class="row">
-                        <div class="col-lg-6 mb-2 pr-lg-1"><a href="/Profile/image/TTP_0290.jpg"> <img src="/Profile/image/TTP_0290.jpg" alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
-                        <div class="col-lg-6 mb-2 pl-lg-1"><a href="/Profile/image/69874613_668782013607249_2548269440349241344_n.jpg"><img src="/Profile/image/69874613_668782013607249_2548269440349241344_n.jpg " alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
-                        <div class="col-lg-6 pr-lg-1 mb-2"><a href="/Profile/image/70358564_706012969914300_3151589165775192064_n.jpg"><img src="/Profile/image/70358564_706012969914300_3151589165775192064_n.jpg" alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
-                        <div class="col-lg-6 pl-lg-1"><a href="/Profile/image/69062409_2170077003290985_1428346976931414016_n.jpg"><img src="/Profile/image/69062409_2170077003290985_1428346976931414016_n.jpg" alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
+                        <div class="col-lg-6 mb-2 pr-lg-1"><a href="TTP_0290.jpg"> <img src="TTP_0290.jpg" alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
+                        <div class="col-lg-6 mb-2 pl-lg-1"><a href="69874613_668782013607249_2548269440349241344_n.jpg"><img src="69874613_668782013607249_2548269440349241344_n.jpg " alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
+                        <div class="col-lg-6 pr-lg-1 mb-2"><a href="70358564_706012969914300_3151589165775192064_n.jpg"><img src="70358564_706012969914300_3151589165775192064_n.jpg" alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
+                        <div class="col-lg-6 pl-lg-1"><a href="69062409_2170077003290985_1428346976931414016_n.jpg"><img src="69062409_2170077003290985_1428346976931414016_n.jpg" alt="Ảnh" class="img-fluid rounded shadow-sm"></div></a>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
 }
 
 .cover {
-    background-image: url(/Profile/image/ảnh\ đám\ cưới.jpg);
+    background-image: url(ảnh\ đám\ cưới.jpg);
     background-size: cover;
     background-repeat: no-repeat
 }
