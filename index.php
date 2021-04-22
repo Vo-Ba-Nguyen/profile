@@ -19,7 +19,7 @@
                      <a href="70358564_706012969914300_3151589165775192064_n.jpg">  <div class="profile mr-3"><img src="70358564_706012969914300_3151589165775192064_n.jpg" alt="..." width="130" class="rounded mb-2 img-thumbnail"></a> <a href="#" class="btn btn-outline-dark btn-sm btn-block">Edit profile</a></div>
                         <div class="media-body mb-5 text-white">
                             <h4 class="mt-0 mb-0">Vo Ba Nguyen</h4>
-                            <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>New York</p>
+                            <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>Da Nang, Viet Nam</p>
                         </div>
                     </div>
                 </div>
